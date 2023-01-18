@@ -1,0 +1,62 @@
+
+
+[
+    {
+      "user_input": ["hello", "hi","hlo","hey","hi there"],
+      "bot_response": "Excited to go on a vacation?\nI get that, after all, vacations are the time to enjoy luxury and rejuvenate yourself \nBut planning and managing your stay, not so much\nAm sure you agree?  \n  Please type y/n",
+      "required_words": []
+    },
+    {
+      "user_input": ["yes","y","Yes","Y"],
+      "bot_response": "Well its pretty simple \nWe at Luxury Retreats provide a wide range of luxury villas right at your fingertips. \nAll you need to think about is what's your dream vacation \nAnd we'll take care of the rest \nPlease type Sure/No ",
+      "required_words": []
+    },
+    {
+     "user_input": ["no", "n","No"],
+     "bot_response": "ok.. Thankyou for reaching out ..\nType exit to exit",
+     "required_words": []
+    },
+    {
+      "user_input": ["Sure","sure"],
+      "bot_response": "LR makes 24/7 concierge service available to you around-the-clock  \nWe bring you curated properties equipped with high-end amenities in the world's most stunning locations\nAt the best possible rate to assure the best value for your money \nSo what's stopping you from finding your dream luxury villa rental?! Let's jump right in\n\n Please select one \n1) BEACHFRONT VILLAS \n2) LARGE VILLAS \n3) SKI CABINS",
+      "required_words": []
+    },
+     
+    {
+      "user_input": ["1"],
+      "bot_response": "Excellent choice!\nNothing beats the heat like a comforting and beautiful beachfront villa\nGo ahead and pick the one that got you thinking!\n\n A) - Villa Windsong :10 Guests, Bedrooms 6, Price :XX,XXXper night \nCabarete Republic\n\n B)Ezperanza  :4 Guest, 2 Bedrooms, Price:XX,XXX per night\nPunta Ballena ,Mexico",
+      "required_words": []
+    },
+    {
+      "user_input": ["2"],
+      "bot_response": "Luxury means magnificence And you know it well. Great pick .\nSo why don't you go ahead and choose the one that excites you the most \n\n C) -Xasa Tau  12 Guests, Bedrooms 12, Price :XX,XXX pernight \nLos Ranchos ,Mexico\n\nD) -Alta Vista  12 Guests, Bedroom 9, Price:XX,XXX\nPlaya del Carmen, Mexico\n\n E)-Simiane  8 Guests, Bedrooms 8 ,Price:XX,XXX\nFrance",
+      "required_words": []
+    },
+    {
+      "user_input": ["3"],
+      "bot_response": "Have guessed your fierce vibes already .What a chilling choice  .\nNow go ahead and top-it-up by selecting the ski cabin of your choice from the below options \n\n F)-Deer Valley Chalet\n12 Guests, Bedrooms 6,Price :XX,XXX per night\nPark City ,NYC\n\nG) - Bella Colla\n12 Guests, Bedrooms 6,Price :XX,XXX per night\nBagnes, Switzerland",
+      "required_words": []
+    },
+    {
+     "user_input": ["a","b","c","d","e","f","g"],
+     "bot_response": "\nAwesome! Can you please tell the month you are available ? ", 
+     "required_words": []
+    },
+    {
+      "user_input": ["jan","feb","march","april","may","june","july","august","september","october","november","december"],
+      "bot_response": "Awesome\nAnd have you thought about the number of days you would like to spend there?\ns1) 4days\ns2) 5days\ns3) A week\ns4) Or more",
+      "required_words": []
+    },
+    {
+      "user_input": ["more","s1","s2","s3","s4"],
+      "bot_response": "We will make this vacation memorable and unforgettable for you\nWhen are you planning to book?\nt1) within 1-2 days\nt2) This week\nt3) In a month",
+      "required_words": []
+    },
+    {
+      "user_input": ["t1","t2","t3"],
+      "bot_response": "Thanks for sharing your requirement with us\nOur travel expert will contact you in case we need any more information about your travel\nBe ready to capture the world with your camera",
+      "required_words": []
+    }
+]
+   
+
